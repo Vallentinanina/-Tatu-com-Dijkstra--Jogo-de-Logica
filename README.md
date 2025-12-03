@@ -2,6 +2,11 @@
 
 Um jogo iterativo que junta o algoritmo de Dijkstra com o famoso jogo hora do rush em uma versão fofa e diferenciada
 
+## 🎯 Para jogar
+
+Aqui estamos disponibilizando os códigos e o jogo também, para jogar, só baixar o arquivo .zip e descompactar, você terá 2 pastas, uma dentro da outra, tire a pasta com o jogo de dentro da outra para que funcione e rode o código main no seu vscode/compilador
+**Bibliotecas**: pygame, os e numpy
+
 ## 🚀 Como Jogar
 
 1. **Objetivo**: Ultrapassar o tabuleiro usando unicamente o algoritmo
@@ -23,7 +28,4 @@ Um jogo iterativo que junta o algoritmo de Dijkstra com o famoso jogo hora do ru
 - **Algoritmo**: Dijkstra implementado do zero
 - **Design**: Pixel art
 
-## 🎯 Para jogar
 
-Aqui estamos disponibilizando os códigos e o jogo também, para jogar, só baixar o arquivo .zip e descompactar, você terá 2 pastas, uma dentro da outra, tire a pasta com o jogo de dentro da outra para que funcione e rode o código main no seu vscode/compilador
-**Bibliotecas**: pygame, os e numpy
